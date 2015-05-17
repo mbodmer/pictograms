@@ -1,12 +1,41 @@
 = Pictograms
 
-== Obligation Signs
+.Library
+[cols="5*"]
+|===
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/kid_head.svg[width="128px"]
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/bike_helmet.svg[width="128px"]
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/kid_head_helmet.svg[width="128px"]
+^.^a|
+^.^a|
+|===
 
-image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_oblig_kids_helmet.svg[width="128px"]
+.Obligation Signs
+[cols="5*"]
+|===
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_oblig_kids_helmet.svg[width="128px"]
+^.^a|
+^.^a|
+^.^a|
+^.^a|
+|===
 
-image::https://cdn.rawgit.com/mbodmer/pictograms/master/sq_sign_oblig_kids_helmet.svg[width="128px"]
+.Square Obligation Signs
+[cols="5*"]
+|===
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/sq_sign_oblig_kids_helmet.svg[width="128px"]
+^.^a|
+^.^a|
+^.^a|
+^.^a|
+|===
 
-
-== Prohibition Signs
-
-image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_prohib_kids_helmet.svg[width="128px"]
+.Prohibition Signs
+[cols="5*"]
+|===
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_prohib_kids_helmet.svg[width="128px"]
+^.^a|
+^.^a|
+^.^a|
+^.^a|
+|===
