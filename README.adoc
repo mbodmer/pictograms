@@ -1,0 +1,10 @@
+= Pictograms
+
+== Obligation Signs
+
+image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_oblig_kids_helmet.svg[width="128px"]
+
+
+== Prohibition Signs
+
+image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_prohib_kids_helmet.svg[width="128px"]
