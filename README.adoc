@@ -6,36 +6,30 @@
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/kid_head.svg[width="128px"]
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/bike_helmet.svg[width="128px"]
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/kid_head_helmet.svg[width="128px"]
-^.^a|
-^.^a|
 |===
 
 .Obligation Signs
-[cols="5*"]
+[cols="3*"]
 |===
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_oblig_kids_helmet.svg[width="128px"]
-^.^a|
-^.^a|
 ^.^a|
 ^.^a|
 |===
 
 .Square Obligation Signs
-[cols="5*"]
+[cols="3*"]
 |===
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/sq_sign_oblig_kids_helmet.svg[width="128px"]
-^.^a|
-^.^a|
 ^.^a|
 ^.^a|
 |===
 
 .Prohibition Signs
-[cols="5*"]
+[cols="3*"]
 |===
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_prohib_kids_helmet.svg[width="128px"]
 ^.^a|
 ^.^a|
-^.^a|
-^.^a|
 |===
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
