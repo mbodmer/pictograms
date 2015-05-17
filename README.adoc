@@ -4,6 +4,8 @@
 
 image::https://cdn.rawgit.com/mbodmer/pictograms/master/sign_oblig_kids_helmet.svg[width="128px"]
 
+image::https://cdn.rawgit.com/mbodmer/pictograms/master/sq_sign_oblig_kids_helmet.svg[width="128px"]
+
 
 == Prohibition Signs
 
