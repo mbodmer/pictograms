@@ -6,6 +6,7 @@
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/kid_head.svg[width="64px"]
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/bike_helmet.svg[width="64px"]
 ^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/kid_head_helmet.svg[width="64px"]
+^.^a|image::https://cdn.rawgit.com/mbodmer/pictograms/master/lib/battery.svg[width="64px"]
 |===
 
 .Obligation Signs
