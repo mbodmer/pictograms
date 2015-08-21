@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="744.09" width="1052.4" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="219.2" width="654.98" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata7">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,8 +10,8 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g id="layer1" transform="translate(0 -308.27)" stroke="#000" stroke-linecap="round" stroke-width=".60945" fill="#fb2800">
-  <path id="rect3084" d="m282.25 254.56c-5.54-0.001-9.9971 4.585-10 10.125v26.531c-0.0139 2.6764-2.23 4.375-5 4.375h-9.2188c-2.77 0-5.0022 2.23-5 5v15.062c0 2.7404-2.4031 4.6875-5 4.6875h-23.312c-2.77 0-5 2.23-5 5v59.688c0 2.77 2.23 5 5 5h23.312c2.5969 0 5.012 2.2685 5 4.5625v15.188c-0.002 2.77 2.23 5 5 5h9.2188c2.77 0 4.9861 2.2477 5 5.2812v23.094c0.003 5.54 4.46 10 10 10h561.84c5.54 0 10-4.46 10-10v-178.47c0-5.54-4.46-9.9988-10-10zm13.656 10.719h534.5c3.324 0 6 2.676 6 6v164.28c0 3.324-2.676 6-6 6h-534.5c-3.324 0-6-2.676-6-6v-164.28c0-3.324 2.676-6 6-6z" transform="translate(0 308.27)"/>
+ <g id="layer1" transform="translate(-209.41 -552.53)" stroke="#000" stroke-linecap="round" stroke-width=".60945" fill="#fb2800">
+  <path id="rect3084" transform="translate(0,308.27)" d="m282.25 254.56c-5.54-0.001-9.9971 4.585-10 10.125v26.531c-0.0139 2.6764-2.23 4.375-5 4.375h-9.2188c-2.77 0-5.0022 2.23-5 5v15.062c0 2.7404-2.4031 4.6875-5 4.6875h-23.312c-2.77 0-5 2.23-5 5v59.688c0 2.77 2.23 5 5 5h23.312c2.5969 0 5.012 2.2685 5 4.5625v15.188c-0.002 2.77 2.23 5 5 5h9.2188c2.77 0 4.9861 2.2477 5 5.2812v23.094c0.003 5.54 4.46 10 10 10h561.84c5.54 0 10-4.46 10-10v-178.47c0-5.54-4.46-9.9988-10-10zm13.656 10.719h534.5c3.324 0 6 2.676 6 6v164.28c0 3.324-2.676 6-6 6h-534.5c-3.324 0-6-2.676-6-6v-164.28c0-3.324 2.676-6 6-6z"/>
   <rect id="rect3089" rx="5" ry="5" height="157.34" width="107.5" y="582.72" x="308.57"/>
   <rect id="rect3089-7" rx="5" ry="5" height="157.34" width="107.5" y="582.16" x="441.94"/>
   <rect id="rect3089-72" rx="5" ry="5" height="157.34" width="107.5" y="582.16" x="575.79"/>
